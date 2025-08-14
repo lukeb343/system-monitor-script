@@ -4,7 +4,7 @@ A beginner PowerShell script that checks CPU, RAM, and Disk Usage and saves resu
 
 ---
 
-## Features
+Features
 
 - Monitors current **CPU usage**
 - Reports **used and total RAM**
@@ -13,7 +13,7 @@ A beginner PowerShell script that checks CPU, RAM, and Disk Usage and saves resu
 
 ---
 
-## Output Example:
+Output Example:
 
 This script will create a "system-report_2025-08-14.txt" file that looks like this 
 
