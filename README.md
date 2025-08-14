@@ -5,14 +5,15 @@ A beginner PowerShell script that checks CPU, RAM, and Disk Usage and saves resu
 ---
 
 Features:
--Monitors current CPU usage
--Reports used/total RAM
--Shows disk usage per drive (used,free,total)
--Outputs the results to a text file with current date
+*Monitors current CPU usage
+*Reports used/total RAM
+*Shows disk usage per drive (used,free,total)
+*Outputs the results to a text file with current date
 
 ---
 
 Output Example:
+
 This script will create a "system-report.txt" file that looks like this 
 
 
