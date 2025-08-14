@@ -1,4 +1,4 @@
-## System Resource Monitor (PowerShell Script)
+# System Resource Monitor (PowerShell Script)
 
 A beginner PowerShell script that checks CPU, RAM, and Disk Usage and saves results to a .txt file on the desktop
 
@@ -16,7 +16,6 @@ A beginner PowerShell script that checks CPU, RAM, and Disk Usage and saves resu
 ## Output Example:
 
 This script will create a "system-report_2025-08-14.txt" file that looks like this 
-
 
 === System Resource Report (2025-08-14 10:49:20) ===
 CPU Load: 5.25%
