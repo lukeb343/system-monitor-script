@@ -21,6 +21,7 @@ This script will create a "system-report_2025-08-14.txt" file that looks like th
 
 
 === System Resource Report (2025-08-14 10:49:20) ===
+
 CPU Load: 5.25%
 
 RAM: 9.68 GB used / 31.09 GB total
