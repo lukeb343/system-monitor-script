@@ -17,6 +17,9 @@ Output Example:
 
 This script will create a "system-report_2025-08-14.txt" file that looks like this 
 
+
+
+
 === System Resource Report (2025-08-14 10:49:20) ===
 CPU Load: 5.25%
 RAM: 9.68 GB used / 31.09 GB total
@@ -24,9 +27,12 @@ RAM: 9.68 GB used / 31.09 GB total
 Disk Usage:
 
 Drive UsedGB FreeGB TotalGB
------ ------ ------ -------
+
 C     443.54  21.48  465.02
 D     795.68 135.83  931.51
+
+
+
 
 
 
