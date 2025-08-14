@@ -50,3 +50,26 @@ to-do:
 
 Changes:
 *updated script to include the date in file name of the output folder
+
+
+
+# 🖥️ System Resource Monitor (PowerShell Script)
+
+A beginner-friendly PowerShell script that checks your system's CPU, RAM, and disk usage, and saves the results to a timestamped `.txt` file on your desktop.
+
+---
+
+## ✅ Features
+
+- Monitors current **CPU usage**
+- Reports **used and total RAM**
+- Displays **disk usage per drive** (used, free, total)
+- Outputs results to a **timestamped text file**
+- Easy to **automate with Task Scheduler**
+
+---
+
+## 📂 Output Example
+
+The script creates a file like this on your desktop:
+
