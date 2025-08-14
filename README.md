@@ -1,21 +1,21 @@
-System Resource Monitor (PowerShell Script)
+## System Resource Monitor (PowerShell Script)
 
 A beginner PowerShell script that checks CPU, RAM, and Disk Usage and saves results to a .txt file on the desktop
 
 ---
 
-Features:
+## Features
 
--Monitors current **CPU usage**
--Reports **used/total RAM**
--Shows **disk usage per drive** (used,free,total)
--Outputs the results to a **text file with current date**
+- Monitors current **CPU usage**
+- Reports **used and total RAM**
+- Displays **disk usage per drive** (used, free, total)
+- Outputs results to a **text file with current date**
 
 ---
 
-Output Example:
+## Output Example:
 
-This script will create a "system-report.txt" file that looks like this 
+This script will create a "system-report_2025-08-14.txt" file that looks like this 
 
 
 === System Resource Report (2025-08-14 10:49:20) ===
@@ -59,13 +59,6 @@ A beginner-friendly PowerShell script that checks your system's CPU, RAM, and di
 
 ---
 
-## ✅ Features
-
-- Monitors current **CPU usage**
-- Reports **used and total RAM**
-- Displays **disk usage per drive** (used, free, total)
-- Outputs results to a **timestamped text file**
-- Easy to **automate with Task Scheduler**
 
 ---
 
