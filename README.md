@@ -37,8 +37,7 @@ D     795.68 135.83  931.51
 
 
 
-Powershell script that will monitor system resources (CPU Usage, RAM, Disk Space)
-Outputs a .txt file (system-report.txt) to desktop to log results
+
 
 
 
